@@ -1,0 +1,10 @@
+fastmcp>=2.0.0
+PyGithub>=2.3.0
+groq>=0.9.0
+json-repair>=0.40.0
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+structlog>=24.1.0
+python-dotenv>=1.0.0
+json-repair
+pytest
